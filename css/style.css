@@ -1,1 +1,18 @@
-style.css
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: black;
+  }
+  
+  #parent {
+    display: flex;
+    border: solid grey;
+    color: white;
+  }
+  
+  .child {
+    border: solid white;
+    width: 100px;
+    height: 100px;
+  }
+  
